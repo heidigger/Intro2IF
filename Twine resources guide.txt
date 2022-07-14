@@ -1,0 +1,26 @@
+Twine Resources Guide
+
+Getting started with making:
+
+	•	Adam Hammond’s YouTube tutorials, “A Total Beginners Guide to Twine 2.1” 
+	https://www.adamhammond.com/twineguide/
+
+	•	Emily Short’s blog- Em Shorty is a devoted scholar and blogger who has aggregated a huge archive of info on everything Interactive Fiction including resources articles interviews reviews of work and more. 
+		https://emshort.blog/ 
+
+	•	Jump into HTML and CSS!! A free and easy way to learn to get a dive head first into coding
+	   https://learning.oreilly.com/library/view/head-first-html/9781449324469/
+
+	•	Twine Cookbook- a user made how to guide for using Twine
+	   https://twinery.org/cookbook/
+
+	•	Twining: Critical and Creative Approaches to Hypertext Narratives- great book with theory and practice 
+	   https://www.jstor.org/stable/10.3998/mpub.1225569
+
+Getting started reading and playing: 
+ 
+	•	Electronic Literature Collection- 4 volumes of games playable on the internet spanning 2006 to 2022, maintained by the Electronic Literature Organization
+	   https://collection.eliterature.org/
+
+	•	Itch.io- a website for finding and sharing indie games online for free. 
+	   https://itch.io/
